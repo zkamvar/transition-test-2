@@ -81,3 +81,5 @@ profiles:
 
 url: https://preview.carpentries.org/transition-test-2
 workbench-beta: 'true'
+beta-date: '1970-01-01'
+old-url: 'https://zkamvar.github.io/transition-test-2'
