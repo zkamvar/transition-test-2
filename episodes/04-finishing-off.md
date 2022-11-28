@@ -1,20 +1,24 @@
 ---
-title: "Finishing Off"
+title: Finishing Off
 teaching: 15
 exercises: 1
-questions:
-- "How to secure the of end of the thread?"
-objectives:
-- "Learn how to finish off your thread underneath your cross stitch"
-- "Secure the end of your thread so the stitches don't come undone."
-keypoints:
-- "Choose a way to tie your threads when you finish off"
-- "Make sure that you have secured the end of your thread"
-- "Cut off any extra length to keep it neat"
 ---
 
 - [Finishing off your thread](#finishing-off-your-thread)
 - [Further Reading](#further-reading)
+
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- Learn how to finish off your thread underneath your cross stitch
+- Secure the end of your thread so the stitches don't come undone.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- How to secure the of end of the thread?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Finishing off your thread
 
@@ -28,9 +32,9 @@ Do this a couple of times to create an anchor.
 This will prevent your stitches from coming undone.
 Cut the loose tail of the thread as close to the fabric as you can.
 
-| ![Figure 1](../fig/episodes/04-finishing-off/fig1.png) |
-| :---: |
-| _Figure 1: How to finish off a thread by securing it underneath some stitches._ |
+| ![](fig/episodes/04-finishing-off/fig1.png){alt='Figure 1'} | 
+| :--------------: |
+| *Figure 1: How to finish off a thread by securing it underneath some stitches.*                 | 
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6fIaQBjHskI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,4 +42,14 @@ Cut the loose tail of the thread as close to the fabric as you can.
 
 ## Further reading
 
-- [10 ways to finish your embroidery hoop](http://www.auntieemscrafts.com/10-ways-to-finish-embroidery-hoops/), by Auntieems crafts
+- [10 ways to finish your embroidery hoop](https://www.auntieemscrafts.com/10-ways-to-finish-embroidery-hoops/), by Auntieems crafts
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- Choose a way to tie your threads when you finish off
+- Make sure that you have secured the end of your thread
+- Cut off any extra length to keep it neat
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+

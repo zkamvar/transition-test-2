@@ -1,13 +1,7 @@
 ---
-title: "Prerequisites"
+title: Prerequisites
 teaching: 15
 exercises: 0
-questions:
-- "What equipment do we need to begin cross stitching?"
-objectives:
-- "Become familiar with the cross stitching equipment"
-keypoints:
-- "Become familiar with the cross stitching equipment"
 ---
 
 - [Pattern chart](#pattern-chart)
@@ -21,6 +15,18 @@ keypoints:
 - [Scissors](#scissors)
 - [A needle threader](#needle-threader) (optional)
 - [A needle minder](#needle-minder) (optional)
+
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- Become familiar with the cross stitching equipment
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- What equipment do we need to begin cross stitching?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Pattern chart
 
@@ -42,9 +48,9 @@ Most commonly, cross stitching is done on 14 count aida.
 This means that 14 stitches will fit in 1 inch of fabric.
 The higher the count, the more stitches per inch you will get.
 
-| ![Coloured Aida Fabric](../fig/episodes/01-prerequisites/fabric.jpg) |
-| :---: |
-| _Aida can be brought pre-dyed in a range of colours or you could be adventurous and dye it yourself!_ |
+| ![](fig/episodes/01-prerequisites/fabric.jpg){alt='Coloured Aida Fabric'}                | 
+| :-----------------------------------------: |
+| *Aida can be brought pre-dyed in a range of colours or you could be adventurous and dye it yourself!*                                            | 
 
 ### How much fabric do I need?
 
@@ -58,15 +64,15 @@ When selecting the size of the fabric to work with, it's recommended to add an e
 
 If you want to use a different count fabric to the recommendation, or need some help calculating fabric size, there are lot of handy tools online to help you work this out.
 
-- <https://www.crosstitch.com/calc.html>
+- [https://www.crosstitch.com/calc.html](https://www.crosstitch.com/calc.html)
 
 ## Embroidery hoop
 
 Embroidery hoops, also known as frames, are a pair of concentric circular rings (often available in wooden or plastic materials) that are used for keeping fabric tightly secured and cleanly placed when stitching and performing needlework.
 
-| ![Bamboo Embroidery Hoop](../fig/episodes/01-prerequisites/hoop.png) |
-| :---: |
-| _Embroidery hoops can be made out of wood, like the one pictured here, or plastic._ |
+| ![](fig/episodes/01-prerequisites/hoop.png){alt='Bamboo Embroidery Hoop'}              | 
+| :-----------------------------------------: |
+| *Embroidery hoops can be made out of wood, like the one pictured here, or plastic.*                                            | 
 
 ### What size hoop do I need?
 
@@ -85,20 +91,20 @@ This is because the colour numbers don't match up between brands!
 
 A brand called [DMC](https://www.dmc.com/) is most commonly used for cross stitching, but you may also see [Anchor](https://anchorcrafts.com/) being referred to.
 
-| ![A bag of coloured thread on bobbins](../fig/episodes/01-prerequisites/thread.png) |
-| :---: |
-| _You can store thread in a variety of ways. These threads have been wound onto bobbins._ |
+| ![](fig/episodes/01-prerequisites/thread.png){alt='A bag of coloured thread on bobbins'} | 
+| :-----------------------------------------: |
+| *You can store thread in a variety of ways. These threads have been wound onto bobbins.*                                            | 
 
 ### How much thread do I need?
 
-Embroidery thread is often sold in [_skeins_](https://www.merriam-webster.com/dictionary/skein).
+Embroidery thread is often sold in [*skeins*](https://www.merriam-webster.com/dictionary/skein).
 How many you'll need of each colour will depend on how large your pattern is and how often the colour is used.
 
 As well as which colours to use, your pattern chart may also include information on how many stitches there are in each colour (stitch count) and how many threads to use for each colour (thread count).
 You can enter this information into an online tool to calculate how much of a skein the stitching will use.
 Note that this will be an estimate as it won't take into account how much thread you will need to start/stop a colour.
 
-- <https://www.thread-bare.com/tools/cross-stitch-skein-estimator>
+- [https://www.thread-bare.com/tools/cross-stitch-skein-estimator](https://www.thread-bare.com/tools/cross-stitch-skein-estimator)
 
 ## Needle
 
@@ -107,18 +113,18 @@ We recommend using a Size 24 cross stitching needle.
 This type of needle is quite blunt so you don't have to worry about injuring yourself while stitching.
 These can also be purchased from DMC.
 
-| ![Embroidery needle](../fig/episodes/01-prerequisites/needle.png) |
-| :---: |
-| _A size 24 DMC cross stitch needle._ |
+| ![](fig/episodes/01-prerequisites/needle.png){alt='Embroidery needle'}                   | 
+| :-----------------------------------------: |
+| *A size 24 DMC cross stitch needle.*                                            | 
 
 ## Scissors
 
 It will be handy to have a pair of scissors around to cut loose ends of thread with.
 You could purchase a set of [embroidery scissors](https://www.sewessential.co.uk/sewing-tools-and-gadgets/sewing-tools/scissors/embroidery-scissors) or a small pair of craft scissors will suffice.
 
-| ![Embroidery scissors](../fig/episodes/01-prerequisites/scissors.png) |
-| :---: |
-| _A pair of embroidery scissors in a protective case._ |
+| ![](fig/episodes/01-prerequisites/scissors.png){alt='Embroidery scissors'}                 | 
+| :-----------------------------------------: |
+| *A pair of embroidery scissors in a protective case.*                                            | 
 
 ## Needle threader
 
@@ -130,3 +136,11 @@ It's not an essential tool for cross stitching, but it may help if you find thre
 A needle minder is a small magnet that stitchers attach to their fabric while they work.
 The needle is attracted to the magnet and prevents it from becoming lost between crafting sessions.
 Again, this is not an essential tool, but it can be useful to keep track of your needle and also you can buy needle minders in a lot of [fun designs](https://www.etsy.com/uk/search?q=needle%20minder&ref=auto-1&as_prefix=needle).
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- Become familiar with the cross stitching equipment
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
