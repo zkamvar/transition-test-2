@@ -19,10 +19,16 @@
     <loc>https://preview.carpentries.org/transition-test-2/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/transition-test-2/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/transition-test-2/discuss.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/transition-test-2/guide.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/transition-test-2/images.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/transition-test-2/index.html</loc>
@@ -46,13 +52,25 @@
     <loc>https://preview.carpentries.org/transition-test-2/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/transition-test-2/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/transition-test-2/instructor/discuss.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/transition-test-2/instructor/guide.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/transition-test-2/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/transition-test-2/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/transition-test-2/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/transition-test-2/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/transition-test-2/instructor/motivation.html</loc>
@@ -62,6 +80,12 @@
   </url>
   <url>
     <loc>https://preview.carpentries.org/transition-test-2/instructor/setup.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/transition-test-2/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/transition-test-2/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/transition-test-2/motivation.html</loc>
